@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B596D1F1-DD0C-41C4-8C63-E16A60F93F8D}</ProjectGuid>
+    <ProjectGuid>{F00C0E34-3297-49E0-803A-E221E0291D17}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>RestaurantApp</RootNamespace>
     <AssemblyName>RestaurantApp</AssemblyName>
