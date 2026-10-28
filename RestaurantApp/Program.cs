@@ -12,7 +12,6 @@ namespace RestaurantApp
         {
             Console.WriteLine("Hello master!");
             Console.WriteLine("Week2");
-            Console.WriteLine("eiei");
         }
     }
 }
